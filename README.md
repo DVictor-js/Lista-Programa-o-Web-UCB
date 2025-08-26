@@ -5,12 +5,14 @@ Atividade 1 – JavaScript
 precisa adivinhar qual é. O jogo deve dar dicas se o número digitado for maior ou menor
 que o número secreto. O jogo só termina quando o usuário acertar.
 Dica: utilize a biblioteca Math para gerar os números aleatórios;
+
 2 –Crie um jogo de Pedra, Papel ou Tesoura onde:
 • O usuário escolhe uma das três opções digitando no prompt().
 • O computador escolhe uma opção aleatória.
 • O programa deve determinar o vencedor e exibir o resultado no console.log().
 Dica: utilize a biblioteca Math para gerar os números aleatórios (opções que o
 computador pode escolher);
+
 3 - Crie um programa que pede ao usuário para digitar um número e, em seguida, exibe
 a tabuada desse número de 1 a 10 no formato de uma tabela.
 Exemplo de saída:
@@ -21,6 +23,7 @@ Se o número escolhido por 5, a saída será:
 ...
 5 x 10 = 50
 Dica: utilize o laço de repetição “for”;
+
 4 - Crie um programa que desenha um triângulo de asteriscos (*) no console, onde o
 número de linhas é especificado pelo usuário.
 Exemplo de saída:
@@ -31,6 +34,7 @@ Se o usuário digitar 5 para o número de linhas, o resultado será:
 ****
 *****
 Dica: utilize o laço de repetição “for”;
+
 5 - Escreva um programa para encontrar a soma da série 1 + 11 + 111 + ... n termos.
 Conforme a entrada a seguir:
 Exemplo da saída:
